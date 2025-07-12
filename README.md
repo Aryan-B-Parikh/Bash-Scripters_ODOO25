@@ -1,8 +1,6 @@
 Problem Statement : ReWear – Community Clothing Exchange
 
-
 > A web-based platform that promotes sustainable fashion through community-driven clothing swaps and point-based redemption. Built during the **Odoo Hackathon '25**.
-
 ---
 
 ## 🌱 Overview
@@ -33,10 +31,9 @@ This platform is designed with simplicity, accessibility, and sustainability in 
 
 ---
 
-
 Team Bash Scripters
 
 Aryan Parikh - aryan81006@gmail.com
 Urval Kheni - kheniurval@gmail.com
-Heet Metha - heetmetha18125@gmail.com
+Heet Metha - heetmehta18125@gmail.com
 Om Mistry - ommistry5559@gmail.com
