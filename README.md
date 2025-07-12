@@ -15,8 +15,9 @@
   <li><p>Concurrently - Package that allows you to run multiple scripts at the same time</p></li>
 </ul>
 
-<h2>Video instructions YouTube tutorial for running the application:</h2>
-<a href="https://www.youtube.com/watch?v=M9DHiusoPOI">https://www.youtube.com/watch?v=M9DHiusoPOI</a>
+<h2>Video instructions YouTube tutorial for running the application:
+<a link src ="
+https://drive.google.com/drive/folders/1yj0XIilFj_Lgtu8zxrbbpOV-wyF3PSDQ?usp=sharing">Link </a>
 
 <h2>Instructions - The Fashion Website Template</h2>
 <ol>
