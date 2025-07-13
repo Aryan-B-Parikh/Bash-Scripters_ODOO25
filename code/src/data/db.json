@@ -757,6 +757,48 @@
       },
       "orderStatus": "Processing",
       "orderDate": "2025-07-12T10:44:41.063Z"
+    },
+    {
+      "id": "06f0",
+      "data": {
+        "emailAddress": "kheniurval777@gmail.com",
+        "firstName": "Urval",
+        "lastName": "Kheni",
+        "company": "Odoo",
+        "address": "Charusat",
+        "apartment": "CSPIT",
+        "city": "Nadiad",
+        "country": "United States",
+        "region": "Gujrat",
+        "postalCode": "395986",
+        "phone": "+919999999999",
+        "paymentType": "on",
+        "cardNumber": "12345678",
+        "nameOnCard": "urval",
+        "expirationDate": "02/32",
+        "cvc": "796"
+      },
+      "products": [
+        {
+          "id": "2-m-red",
+          "image": "product image 2.jpg",
+          "title": "Luxury Black Clothing",
+          "category": "luxury-collection",
+          "price": 1050,
+          "quantity": 10,
+          "size": "m",
+          "color": "red",
+          "popularity": 4,
+          "stock": 20
+        }
+      ],
+      "subtotal": 10500,
+      "user": {
+        "email": "kheniurval777@gmail.com",
+        "id": "static-1"
+      },
+      "orderStatus": "Processing",
+      "orderDate": "2025-07-12T11:37:29.418Z"
     }
   ],
   "users": [
